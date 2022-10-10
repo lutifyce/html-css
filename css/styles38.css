@@ -1,0 +1,14 @@
+div {
+  height: 300px;
+  color: white;
+}
+
+.big-img {
+  background: url("./aass.jpg");
+}
+.small-img {
+  background: url("./saas.jpg");
+}
+.folder-img {
+  background: url("./image/folderr.png");
+}
