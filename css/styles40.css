@@ -1,0 +1,23 @@
+/* background-size
+ */
+ div {
+  height: 150px;
+  color: white;
+  border: 2px solid red;
+}
+
+.big-img {
+  background: url("./aass.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.small-img {
+  background: url("./saas.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.folder-img {
+  background: url("./image/folderr.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
