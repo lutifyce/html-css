@@ -16,14 +16,14 @@ div {
 }
 
 .big-img {
-  background: url("./saas.jpg");
+  background: url("./aass.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   /* background-attachment: fixed; */
 }
 .small-img {
-  background: url("./aass.jpg") center/cover no-repeat fixed;
+  background: url("./saas.jpg") center/cover no-repeat fixed;
 }
 .folder-img {
   background: linear-gradient(
