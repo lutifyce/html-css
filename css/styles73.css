@@ -1,0 +1,10 @@
+h1{
+  text-shadow: 6px 13px 4px rgba(165, 150, 150, 1);
+}
+.box{
+  width: 200px;
+  height: 100px;
+  background-color: cornflowerblue;
+  margin: 20px;
+  box-shadow: 37px 48px 8px 0px rgba(14, 43, 193, 0.27);
+}
